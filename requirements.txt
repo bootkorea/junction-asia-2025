@@ -1,0 +1,6 @@
+ultralytics
+torch
+torchvision
+torchaudio
+peft
+albumentations

@@ -1,0 +1,55 @@
+@font-face {
+  font-family: 'Pretendard';
+  src: url('./Pretendard-ExtraBold.woff2') format('opentype');
+  font-weight: 800;
+  /* ExtraBold는 일반적으로 800 두께를 사용 */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Pretendard';
+  src: url('./Pretendard-ExtraLight.woff2') format('opentype');
+  font-weight: 200;
+  /* ExtraLight는 일반적으로 200 두께를 사용 */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Pretendard';
+  src: url('./Pretendard-Light.woff2') format('opentype');
+  font-weight: 300;
+  /* Light는 일반적으로 300 두께를 사용 */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Pretendard';
+  src: url('./Pretendard-Medium.woff2') format('opentype');
+  font-weight: 500;
+  /* Medium은 500 두께를 사용 */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Pretendard';
+  src: url('./Pretendard-Regular.woff2') format('opentype');
+  font-weight: 400;
+  /* Regular는 400 두께를 사용 */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Pretendard';
+  src: url('./Pretendard-SemiBold.woff2') format('opentype');
+  font-weight: 600;
+  /* SemiBold는 일반적으로 600 두께를 사용 */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Pretendard';
+  src: url('./Pretendard-Thin.woff2') format('opentype');
+  font-weight: 100;
+  /* Thin은 일반적으로 100 두께를 사용 */
+  font-style: normal;
+}

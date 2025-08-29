@@ -1,0 +1,26 @@
+{
+  "fires": [
+    {
+      "fire_id": "MOCK001",
+      "timestamp": "2025-08-24T09:00:00.000Z",
+      "data_type": "observed",
+      "latMin": 37.0,
+      "latMax": 37.01,
+      "lngMin": 129.4,
+      "lngMax": 129.41
+    },
+    {
+      "fire_id": "MOCK002",
+      "timestamp": "2025-08-24T10:00:00.000Z",
+      "data_type": "predicted",
+      "latMin": 37.05,
+      "latMax": 37.06,
+      "lngMin": 129.45,
+      "lngMax": 129.46
+    }
+  ],
+  "users": [
+    { "id": 1, "name": "김철수" },
+    { "id": 2, "name": "이영희" }
+  ]
+}
